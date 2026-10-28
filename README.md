@@ -7,6 +7,7 @@ Go to:
   <li><a href = "#Anix">Anix</a></li>
   <li><a href = "#Hide Up!">Hide Up!</li>
   <li><a href = "#news">News</li>
+  <li><a href = "#bottom">To the bottom!</li>
 </ul>
   
 
@@ -70,5 +71,6 @@ Hide up is a hobbyist project made in Java that does a few things:
             <h3>ANIX Released!</h3>
             <p><b>Date:</b> 27/09/26</p>
         </div>
- # Nothing else :P
+        
+ <h1 href="bottom">Nothing else :P</h1>
 
