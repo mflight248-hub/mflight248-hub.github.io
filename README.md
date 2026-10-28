@@ -12,9 +12,10 @@ Go to:
   
 
 <h1 id="Anix">Anix 😃</h1>
-> Age doesn't matter
+<q>Age doesn't matter</q>
+
 ## What is ANIX?
-ANIX is an operating system designed **to do nothing** ("Tadaaaaaaaa"). It was developed by Mflight248 in 2026 and has been on this earth for approximately 0 years.
+ANIX is an operating system designed **to do nothing** (Tadaaaaaaaa). It was developed by Mflight248 in 2026 and has been on this earth for approximately 0 years.
 
 ## What you can do with ANIX:
 * Open it
