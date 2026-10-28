@@ -5,8 +5,8 @@ This is the place where I will keep all my stuff.
 Go to:
 <ul>
   <li><a href = "#Anix">Anix</a></li>
-  <li><a href = "#Hide Up!">Hide Up!</li>
-  <li><a href = "#news">News</li>
+  <li><a href = "#Hide Up!">Hide Up!</a></li>
+  <li><a href = "#news">News</a></li>
 </ul>
   
 
