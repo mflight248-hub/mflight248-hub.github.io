@@ -92,7 +92,22 @@ body {
     font-weight: bold;
     color: 255;
     text-decoration: none;
+}
+
+#btn1{
     font-family: 'Plus Jakarta Sans', sans-serif;
     background-color: aquamarine;
-    
+}
+#btn2{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: aquamarine;
+}
+#btn3{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: aquamarine;
+}
+
+#btn4{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: aquamarine;
 }
